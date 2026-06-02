@@ -1,0 +1,9 @@
+*.class
+
+output/*
+!output/.gitkeep
+
+logs/processing_log.txt
+!logs/.gitkeep
+
+.DS_Store

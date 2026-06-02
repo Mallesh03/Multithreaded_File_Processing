@@ -1,0 +1,3 @@
+Thread safety is important in concurrent applications.
+Synchronization prevents data corruption when multiple threads access shared resources.
+This sample demonstrates core Java concepts.
